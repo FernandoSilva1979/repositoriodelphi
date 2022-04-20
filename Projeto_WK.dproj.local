@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2022/04/14 23:48:42.000.951,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 23:49:29.000.380,=D:\wk\ufrm_Pedidos.pas</Transaction>
+    <Transaction>2022/04/14 23:50:06.000.547,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/14 23:50:26.000.100,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\wk\udmodule.dfm</Transaction>
+    <Transaction>2022/04/14 23:50:26.000.100,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\wk\udmodule.pas</Transaction>
+    <Transaction>2022/04/15 02:18:06.000.659,=C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2022/04/15 02:18:40.000.427,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\wk\uclasse_Pedidos.pas</Transaction>
+    <Transaction>2022/04/15 02:56:49.000.248,C:\Users\ferna\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\wk\Projeto_WK.dproj</Transaction>
+    <Transaction>2022/04/16 22:29:52.000.575,=D:\wk\Unit1.pas</Transaction>
+    <Transaction>2022/04/16 22:30:15.000.899,D:\wk\ufrm_BuscarPedidos.dfm=D:\wk\Unit1.dfm</Transaction>
+    <Transaction>2022/04/16 22:30:15.000.899,D:\wk\ufrm_BuscarPedidos.pas=D:\wk\Unit1.pas</Transaction>
+    <Transaction>2022/04/17 16:33:34.631,D:\wk\ufrm_CancelarPedidos.dfm=D:\wk\ufrm_BuscarPedidos.dfm</Transaction>
+    <Transaction>2022/04/17 16:33:34.631,D:\wk\ufrm_CancelarPedidos.pas=D:\wk\ufrm_BuscarPedidos.pas</Transaction>
+    <Transaction>2022/04/17 16:33:46.723,=D:\wk\ufrm_BuscarPedidos.pas</Transaction>
+  </Transactions>
+</BorlandProject>
